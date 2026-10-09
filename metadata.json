@@ -1,0 +1,7 @@
+{
+  "name": "EscalaMax - Escala Semanal Operacional",
+  "description": "Aplicativo mobile para colaboradores conferirem a escala semanal de trabalho e gestores acompanharem e gerenciarem a operação em tempo real.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
